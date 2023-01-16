@@ -1,0 +1,15 @@
+{ 
+    "photos": [{"title":"mariage", "image": [{"name":"/images/marriage1.jpg"},{"name":"/images/marriage2.jpg"},{"name":"/images/marriage3.jpg"},{"name":"/images/marriage4.jpg"} ]},
+    {"title":"grossesse", "image":[{"name":"/images/grossesse1.jpg"},{"name":"/images/grossesse2.jpg"}]},
+    {"title":"bébé", "image":[{"name":"/images/bebe1.jpg"},{"name":"/images/bebe2.jpg"},{"name":"/images/bebe3.jpg"}]}]
+    ,"categories": [{"id":"1","title":"mariage", "image": "/images/marriage1.jpg"},{"id":"2","title":"mariage", "image":"/images/marriage2.jpg"},{"id":"3","title":"mariage", "image":"/images/marriage3.jpg"},{"id":"4","title":"mariage", "image":"/images/marriage4.jpg"},
+    {"id":"5","title":"grossesse", "image":"/images/grossesse1.jpg"},{"id":"6","title":"grossesse", "image":"/images/grossesse2.jpg"},{"id":"7","title":"bébé", "image":"/images/bebe1.jpg"},{"title":"bébé", "image":"/images/bebe2.jpg"},{"id":"8","title":"bébé", "image":"/images/bebe3.jpg"},
+    {"id":"9","title":"famille", "image":"/images/family1.jpg"},{"id":"10","title":"famille", "image":"/images/family2.jpg"},{"title":"famille", "image":"/images/family3.jpg"},{"title":"famille", "image":"/images/family4.jpg"},[]],
+     "tarifsPrestation": [{"id": "Juste moi", "prix": "130 euros", "description": "Séance pour une personne, en extérieur ou en studio"},
+{"id": "Pour deux", "prix": "195 euros", "description": "Pour deux personnes, en extérieur ou en studio"},
+{"id": "famille", "prix": "220 euros", "description": "Pour la famille ou les amis jusqu’à 4 personnes, en extérieur ou en studio 30 euros en supplément par personne au-delà de 4 (hormis enfant jusqu’à 2 ans)"},
+{"id": "Il était une fois", "prix": "160 euros", "description": "Photo de grossesse (À votre domicile, en extérieur ou en studio)"},
+{"id": "Mon bébé", "prix": "100 euros", "description": "Photo d’enfant jusqu’à 3 ans (photo à domicile)"},
+{"id": "J’immortalise l’événement", "prix": "sur mesure", "description": "Prestation de mariage ou baptême sur devis"}],
+"image": []
+}
