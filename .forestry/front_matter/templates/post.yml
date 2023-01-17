@@ -1,4 +1,14 @@
 ---
 label: post
 hide_body: false
-fields: []
+fields:
+- name: category
+  type: text
+  config:
+    required: false
+  label: category
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
